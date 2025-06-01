@@ -37,7 +37,7 @@ BBMS/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/BBMS.git
+   git clone https://github.com/muba5hir1/BBMS.git
    ```
 
 2. **Import the Database:**
